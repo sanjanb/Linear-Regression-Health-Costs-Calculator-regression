@@ -1,6 +1,5 @@
 # **Machine Learning Project: Predicting Healthcare Costs**
 
----
 
 ## **1. Introduction to the Problem**
 
